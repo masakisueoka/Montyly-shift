@@ -9,7 +9,7 @@
         "e55d1e1a"
       ],
       "authorship_tag": "ABX9TyMSJJtfQC+QMzJdaG1PA06Z",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
@@ -951,7 +951,7 @@
         },
         "id": "7d8fd9cd",
         "outputId": "b757a8a8-576d-4943-a3d2-cef610516b28",
-        "collapsed": true
+        "collapsed": True
       },
       "source": [
         "import random\n",
@@ -3141,7 +3141,7 @@
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
-        "collapsed": true,
+        "collapsed": True,
         "id": "0b4faf68",
         "outputId": "6e845843-3d36-44e4-8714-d4d6638018bf"
       },
