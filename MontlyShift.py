@@ -355,7 +355,7 @@
         },
         "id": "7d8fd9cd",
         "outputId": "b757a8a8-576d-4943-a3d2-cef610516b28",
-        "collapsed": true
+        "collapsed": True
       },
       "source": [
         "import random\n",
