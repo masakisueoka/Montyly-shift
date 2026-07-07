@@ -9,7 +9,7 @@
         "e55d1e1a"
       ],
       "authorship_tag": "ABX9TyM8UrDEQXNO/XoiwWO5vcuu",
-      "include_colab_link": true
+      "include_colab_link": True
     },
     "kernelspec": {
       "name": "python3",
